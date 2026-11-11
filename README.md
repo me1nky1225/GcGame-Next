@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E6%9C%80%E6%96%B0%E7%89%88%E6%9C%AC-0.1.0-2ea44f?style=flat-square" alt="最新版本">
-  <a href="LICENSE.txt"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0-blue?style=flat-square" alt="许可证"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-GPL--3.0-blue?style=flat-square" alt="许可证"></a>
   <img src="https://img.shields.io/badge/%E7%B3%BB%E7%BB%9F-Windows%2010%2F11%20x64-0078d4?style=flat-square" alt="系统要求">
   <img src="https://img.shields.io/badge/%E7%B4%A2%E5%BC%95-3187%20%E6%9D%A1-2ea44f?style=flat-square" alt="索引条目">
   <img src="https://img.shields.io/badge/%E7%95%8C%E9%9D%A2%E8%AF%AD%E8%A8%80-%E4%B8%AD%E6%96%87%2F%E7%B9%81%E4%B8%AD%2FEnglish-8957e5?style=flat-square" alt="界面语言">
@@ -340,7 +340,7 @@ docs/shots/                    界面截图
 
 - [开发笔记（docs/DEV.md）](docs/DEV.md) —— 模块清单、设计系统、与旧版的逐项对比、每个坑的成因
 - [分享文案（docs/SHARE.md）](docs/SHARE.md) —— 发布说明、短贴与配图建议
-- [许可证（LICENSE.txt）](LICENSE.txt) —— GPL-3.0 全文
+- [许可证（LICENSE）](LICENSE) —— GPL-3.0 全文
 
 ## 与原项目的关系
 
@@ -383,7 +383,7 @@ PyQt6（GPL-3.0 例外条款）、pypinyin（MIT）、rapidfuzz（MIT）、随�
 
 ## 许可
 
-GPL-3.0，见 [LICENSE.txt](LICENSE.txt)。沿用上游的许可与署名。
+GPL-3.0，见 [LICENSE](LICENSE)。沿用上游的许可与署名。
 
 索引与封面来自各自的公开站点，**修改器版权归各自作者所有**；本项目只做检索、下载搬运与本地管理，不提供破解、绕过付费或二次分发。抓到的封面图版权属于 Steam 与游戏厂商。
 
