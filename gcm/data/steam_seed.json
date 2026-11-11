@@ -1,0 +1,310 @@
+{
+ "black myth: wukong": {
+  "appid": 2358720,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2358720/header_schinese.jpg?t=1760601605",
+  "at": 1794141503,
+  "en": "Black Myth: Wukong",
+  "zh": "黑神话：悟空"
+ },
+ "phantom blade zero": {
+  "appid": 4115450,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/40b2044606b59e0cdd9fb89738895fea8a22067c/header_schinese.jpg?t=1793261976",
+  "at": 1794141502,
+  "en": "Phantom Blade Zero",
+  "zh": "影之刃零"
+ },
+ "elden ring": {
+  "appid": 1245620,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1790290043",
+  "at": 1794141505,
+  "en": "ELDEN RING",
+  "zh": "艾尔登法环"
+ },
+ "palworld": {
+  "appid": 1623730,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/1b0709ec8de093a97a0bf43e799933eae4faef35/header_schinese.jpg?t=1790336367",
+  "at": 1794142518,
+  "en": "Palworld",
+  "zh": "Palworld / 幻兽帕鲁"
+ },
+ "cyberpunk 2077": {
+  "appid": 1091500,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/33086f30470a5f4921c913561a0a5c05b583e292/header_alt_assets_9_schinese.jpg?t=1792682505",
+  "at": 1794143401,
+  "en": "Cyberpunk 2077",
+  "zh": "赛博朋克 2077"
+ },
+ "baldur's gate 3": {
+  "appid": 1086940,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+  "at": 1794143402,
+  "en": "Baldur's Gate 3",
+  "zh": "博德之门3"
+ },
+ "stardew valley": {
+  "appid": 413150,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1786554168",
+  "at": 1794143403,
+  "en": "Stardew Valley",
+  "zh": "Stardew Valley"
+ },
+ "hollow knight": {
+  "appid": 367520,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+  "at": 1794143404,
+  "en": "Hollow Knight",
+  "zh": "Hollow Knight"
+ },
+ "sekiro™: shadows die twice - goty edition": {
+  "appid": 814380,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+  "at": 1794143405,
+  "en": "Sekiro™: Shadows Die Twice - GOTY Edition",
+  "zh": "Sekiro™: Shadows Die Twice - GOTY Edition"
+ },
+ "elden ring nightreign": {
+  "appid": 2622380,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2622380/header.jpg?t=1791488960",
+  "at": 1794143407,
+  "en": "ELDEN RING NIGHTREIGN",
+  "zh": "艾尔登法环 黑夜君临"
+ },
+ "grand theft auto v enhanced": {
+  "appid": 3240220,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header_schinese.jpg?t=1781187782",
+  "at": 1794143408,
+  "en": "Grand Theft Auto V Enhanced",
+  "zh": "Grand Theft Auto V 增强版"
+ },
+ "red dead redemption 2": {
+  "appid": 1174180,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+  "at": 1794143409,
+  "en": "Red Dead Redemption 2",
+  "zh": "Red Dead Redemption 2"
+ },
+ "the witcher 3: wild hunt — remastered": {
+  "appid": 292030,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/595b56d6f2e468777cf038121983f6409291157d/header_schinese.jpg?t=1793900434",
+  "at": 1794143410,
+  "en": "The Witcher 3: Wild Hunt — Remastered",
+  "zh": "巫师3：狂猎 — 重制版"
+ },
+ "hogwarts legacy": {
+  "appid": 990080,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+  "at": 1794143411,
+  "en": "Hogwarts Legacy",
+  "zh": "霍格沃茨之遗"
+ },
+ "resident evil 4": {
+  "appid": 2050650,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+  "at": 1794143412,
+  "en": "Resident Evil 4",
+  "zh": "Resident Evil 4"
+ },
+ "monster hunter: world": {
+  "appid": 582010,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/582010/header.jpg?t=1791439347",
+  "at": 1794143414,
+  "en": "Monster Hunter: World",
+  "zh": "Monster Hunter: World"
+ },
+ "monster hunter wilds": {
+  "appid": 2246340,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2246340/header.jpg?t=1787549555",
+  "at": 1794143415,
+  "en": "Monster Hunter Wilds",
+  "zh": "Monster Hunter Wilds"
+ },
+ "lies of p": {
+  "appid": 1627720,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+  "at": 1794143416,
+  "en": "Lies of P",
+  "zh": "Lies of P"
+ },
+ "wuchang: fallen feathers": {
+  "appid": 2277560,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2277560/64660e8560e2b86e9c8977c318a23abe44badbd4/header_schinese.jpg?t=1793288514",
+  "at": 1794143417,
+  "en": "WUCHANG: Fallen Feathers",
+  "zh": "明末：渊虚之羽"
+ },
+ "naraka: bladepoint": {
+  "appid": 1203220,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203220/2ebf769e1f5b8d210500c1b9675ca2be06673c54/header_schinese.jpg?t=1793846487",
+  "at": 1794143419,
+  "en": "NARAKA: BLADEPOINT",
+  "zh": "永劫无间"
+ },
+ "it takes two": {
+  "appid": 1426210,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header_schinese.jpg?t=1777395376",
+  "at": 1794143420,
+  "en": "It Takes Two",
+  "zh": "双人成行"
+ },
+ "sons of the forest": {
+  "appid": 1326470,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+  "at": 1794143422,
+  "en": "Sons Of The Forest",
+  "zh": "Sons Of The Forest"
+ },
+ "valheim": {
+  "appid": 892970,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/892970/1888731b59362fca6c026cdbafa3dfffd45c3146/header_alt_assets_6.jpg?t=1791544831",
+  "at": 1794143423,
+  "en": "Valheim",
+  "zh": "Valheim: 英灵神殿"
+ },
+ "terraria": {
+  "appid": 105600,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1792530636",
+  "at": 1794143424,
+  "en": "Terraria",
+  "zh": "Terraria"
+ },
+ "risk of rain 2": {
+  "appid": 632360,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
+  "at": 1794143426,
+  "en": "Risk of Rain 2",
+  "zh": "雨中冒险 2"
+ },
+ "hades": {
+  "appid": 1145360,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+  "at": 1794143427,
+  "en": "Hades",
+  "zh": "Hades"
+ },
+ "dead cells": {
+  "appid": 588650,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/588650/header.jpg?t=1779086887",
+  "at": 1794143428,
+  "en": "Dead Cells",
+  "zh": "Dead Cells"
+ },
+ "forza horizon 5": {
+  "appid": 1551360,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+  "at": 1794143430,
+  "en": "Forza Horizon 5",
+  "zh": "极限竞速：地平线 5"
+ },
+ "euro truck simulator 2": {
+  "appid": 227300,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+  "at": 1794143431,
+  "en": "Euro Truck Simulator 2",
+  "zh": "Euro Truck Simulator 2"
+ },
+ "sid meier’s civilization® vi": {
+  "appid": 289070,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/289070/header.jpg?t=1792718069",
+  "at": 1794143432,
+  "en": "Sid Meier’s Civilization® VI",
+  "zh": "Sid Meier’s Civilization® VI"
+ },
+ "total war: warhammer iii": {
+  "appid": 1142710,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1142710/header.jpg?t=1790321531",
+  "at": 1794143434,
+  "en": "Total War: WARHAMMER III",
+  "zh": "全面战争：战锤3"
+ },
+ "age of empires iv: anniversary edition": {
+  "appid": 1466860,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1466860/header.jpg?t=1793384195",
+  "at": 1794143435,
+  "en": "Age of Empires IV: Anniversary Edition",
+  "zh": "Age of Empires IV: Anniversary Edition"
+ },
+ "factorio": {
+  "appid": 427520,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/427520/ab9a2df0a77caebde20dc45adc021de8cdcf7cc5/header.jpg?t=1792752343",
+  "at": 1794143436,
+  "en": "Factorio",
+  "zh": "Factorio"
+ },
+ "rimworld": {
+  "appid": 294100,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/294100/0bd1adfad18e931b14529ce177fbdea0f5072760/header_schinese.jpg?t=1782756789",
+  "at": 1794143437,
+  "en": "RimWorld",
+  "zh": "边缘世界 RimWorld"
+ },
+ "project zomboid": {
+  "appid": 108600,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1793224893",
+  "at": 1794143439,
+  "en": "Project Zomboid",
+  "zh": "Project Zomboid"
+ },
+ "remnant ii®": {
+  "appid": 1282100,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
+  "at": 1794143440,
+  "en": "REMNANT II®",
+  "zh": "遗迹2"
+ },
+ "armored core™ vi fires of rubicon™": {
+  "appid": 1888160,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1888160/header_schinese.jpg?t=1748630736",
+  "at": 1794143441,
+  "en": "ARMORED CORE™ VI FIRES OF RUBICON™",
+  "zh": "机战佣兵™VI 境界天火™"
+ },
+ "ghost of tsushima director's cut": {
+  "appid": 2215430,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+  "at": 1794143442,
+  "en": "Ghost of Tsushima DIRECTOR'S CUT",
+  "zh": "Ghost of Tsushima导演剪辑版"
+ },
+ "god of war": {
+  "appid": 1593500,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+  "at": 1794143444,
+  "en": "God of War",
+  "zh": "God of War"
+ },
+ "marvel’s spider-man remastered": {
+  "appid": 1817070,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+  "at": 1794143445,
+  "en": "Marvel’s Spider-Man Remastered",
+  "zh": "Marvel’s Spider-Man Remastered"
+ },
+ "helldivers™ 2": {
+  "appid": 553850,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/3b637a129cd859a9710381a6fd9c78b931df7b51/header_schinese.jpg?t=1793395133",
+  "at": 1794143446,
+  "en": "HELLDIVERS™ 2",
+  "zh": "HELLDIVERS™ 绝地潜兵2"
+ },
+ "deep rock galactic": {
+  "appid": 548430,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/548430/header_schinese.jpg?t=1792497307",
+  "at": 1794143448,
+  "en": "Deep Rock Galactic",
+  "zh": "深岩银河"
+ },
+ "lethal company": {
+  "appid": 1966720,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1966720/header.jpg?t=1775380053",
+  "at": 1794143449,
+  "en": "Lethal Company",
+  "zh": "Lethal Company"
+ },
+ "ready or not": {
+  "appid": 1144200,
+  "cover": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1790846188",
+  "at": 1794143450,
+  "en": "Ready or Not",
+  "zh": "Ready or Not"
+ }
+}
